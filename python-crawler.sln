@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32611.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "python-crawler", "python-crawler\python-crawler.pyproj", "{4DC99A26-73E7-4D70-A92D-9A37F27C1B39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DC99A26-73E7-4D70-A92D-9A37F27C1B39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DC99A26-73E7-4D70-A92D-9A37F27C1B39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F80AAA4-3B63-442C-8AC2-926B14445BD9}
+	EndGlobalSection
+EndGlobal
